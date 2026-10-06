@@ -149,12 +149,12 @@ The final reporting features will be documented here once the implementation and
 
 This project is a collaborative assessment. Each member's contribution will be evidenced through the Git commit history and documented in the final report.
 
-| Team Member | Responsibilities | GitHub Profile                |
-| ----------- | ---------------- | ----------------------------- |
-| Member 1    | To be confirmed  | [GitHub](https://github.com/) |
-| Member 2    | To be confirmed  | [GitHub](https://github.com/) |
-| Member 3    | To be confirmed  | [GitHub](https://github.com/) |
-| Member 4    | To be confirmed  | [GitHub](https://github.com/) |
+| Team Member | Responsibilities | GitHub Profile                          |
+| ----------- | ---------------- | --------------------------------------- |
+| Riker       | To be confirmed  | [GitHub](https://github.com/Riker-Hoch) |
+| Member 2    | To be confirmed  | [GitHub](https://github.com/)           |
+| Member 3    | To be confirmed  | [GitHub](https://github.com/)           |
+| Member 4    | To be confirmed  | [GitHub](https://github.com/)           |
 
 *Replace the example rows with your actual team members, assigned tasks, and profile links. Ensure the task-distribution list matches the commit history.*
 
