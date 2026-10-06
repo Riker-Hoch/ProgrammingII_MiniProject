@@ -145,38 +145,6 @@ Potential techniques include:
 
 The final reporting features will be documented here once the implementation and requirements have been confirmed.
 
-## 🌿 Development Workflow
-
-Development is managed through a shared Git repository. Each team member is responsible for committing their own work using their own Git identity.
-
-The project follows the assessment's required development checkpoints:
-
-1. Finalise and document the unified JSON schema.
-2. Implement reading of both legacy files.
-3. Complete the data-cleaning rules.
-4. Implement duplicate merging.
-5. Generate `inventory.json`.
-6. Implement the abstract base class and subclasses.
-7. Implement inventory loading and saving.
-8. Implement the first functional reporting method.
-9. Implement the second functional reporting method.
-
-Checkpoint commits should clearly describe the completed work and accurately reflect the responsible contributor.
-
-Example commit messages:
-
-```text
-docs: finalise unified inventory schema
-feat: implement legacy data loading
-feat: complete inventory data cleaning
-feat: implement duplicate merging
-feat: generate unified inventory dataset
-feat: implement inventory item class hierarchy
-feat: add inventory persistence
-feat: implement first reporting method
-feat: implement second reporting method
-```
-
 ## 👥 Team Contributions
 
 This project is a collaborative assessment. Each member's contribution will be evidenced through the Git commit history and documented in the final report.
