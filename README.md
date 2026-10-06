@@ -145,46 +145,6 @@ Potential techniques include:
 
 The final reporting features will be documented here once the implementation and requirements have been confirmed.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-* Python 3.x
-* Git
-* A code editor, such as Visual Studio Code
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd chemistry-inventory-management
-```
-
-### 3. Run the migration script
-
-After the migration script and its input files are ready, run:
-
-```bash
-python migrate.py
-```
-
-This should generate the unified `inventory.json` file.
-
-### 4. Run the application
-
-Once the application is implemented:
-
-```bash
-python app.py
-```
-
-**Note:** These commands describe the intended workflow. Actual execution depends on the implementation and the final project structure.
-
 ## 🌿 Development Workflow
 
 Development is managed through a shared Git repository. Each team member is responsible for committing their own work using their own Git identity.
