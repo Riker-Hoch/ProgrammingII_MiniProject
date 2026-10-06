@@ -21,8 +21,6 @@ A Python-based inventory management application designed to modernise the Univer
 * [Data Migration](#-data-migration)
 * [Object-Oriented Design](#-object-oriented-design)
 * [Reporting Features](#-reporting-features)
-* [Getting Started](#-getting-started)
-* [Development Workflow](#-development-workflow)
 * [Team Contributions](#-team-contributions)
 * [Assessment Information](#-assessment-information)
 * [License](#-license)
